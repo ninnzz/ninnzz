@@ -21,7 +21,7 @@ In my extra time, you can find me in some random trail with my trusty mountain b
 - Machine Learning
 - Data Engineering
 - DevOps
-- Startups
+- Startups!
 
 <h6 align="center">Some of the stuff I use </h6>
 <p align="center"> 

@@ -9,13 +9,18 @@
 
 
 <p align="justify">
-Currently working as a Machine Learning Engineer at Japanese AI startup. I am also finishing my grad school, I like doing research. 🌻
-In my extra time, you can find me in some random trail with my trusty mountain bike or playing some quirky tunes using my guitar. 
+When I was a kid, I wanted to be an astronaut so I have  no clue why I ended up taking computer science back in college. But hey, it turned out better than expected! 🌻
+</p>
+<p align="justify">
+Coming from a mix of software engineering, data science, and research background, I have a good understanding on how to solve unique problems that require application of technology but at the same time, balance out the risk for all stake holders.
+</p>
+<p align="justify">
+If you cannot find me in front of my computer, I am probably on my <i><b>enduro bike</b></i> shredding trails, playing some riffs in my <i><b>guitar</b></i>, or in my telescope peering into the <i><b>depths of the universe</b></i>!
 </p>
 
 <h5>TLDR;</h5>
 
-<h6>Eight years of experience working on</h6>
+<h6>Nine years of experience working on</h6>
 
 - Backend development
 - Machine Learning

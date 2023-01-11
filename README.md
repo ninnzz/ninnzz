@@ -4,7 +4,7 @@
 / .. ... / -.-- --- ..- .-. ... -.-.--
 ```
 
-<h3 align="center">Call me Ninz</h3>
+<h2 align="center">Call me Ninz</h2>
 <h5 align="center">Music - Tech - Nature - Universe!</h5>
 
 
@@ -18,7 +18,7 @@ Coming from a mix of software engineering, data science, and research background
 If you cannot find me in front of my computer, I am probably on my <i><b>enduro bike</b></i> shredding trails, playing some riffs in my <i><b>guitar</b></i>, or in my telescope peering into the <i><b>depths of the universe</b></i>!
 </p>
 
-<h5>TLDR;</h5>
+<h3>TLDR;</h3>
 
 <h6>Nine years of experience working on</h6>
 
@@ -27,6 +27,14 @@ If you cannot find me in front of my computer, I am probably on my <i><b>enduro 
 - Data Engineering
 - DevOps
 - Startups!!
+
+## Experience
+
+### Machine Learning Engineer @ Hacarus
+
+2016/11 - 2022/09   
+
+
 
 <h6 align="center">Some of the stuff I use </h6>
 <p align="center"> 

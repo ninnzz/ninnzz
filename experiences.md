@@ -1,5 +1,3 @@
-# Experience
-
 ## Machine Learning Engineer
 Company: Hacarus
 
@@ -34,3 +32,56 @@ Some of the tech stack I used:
 - Deep Learning (Keras, Torch, TF) and in house ML models
 - DVC for data versioning and gitlab for MLOps pipelines
 - AWS, all our cloud setup is hosted in aws
+
+## Backend and DevOps Engineer
+Company: MCN Freedom (Any.tv)
+
+Duration: 2014/02 - 2016/11
+
+I joined the company after months of persuation from the CEO. I met him on a dev meetup when they were pitching their products and the tech stack they used.
+We started out as a team of 6 developers. My main focus is building the financial data processing side of the product.
+The company is a youtube muti-channel network, so we had to process a lot of channel data monthly.
+
+The initial product was hosted in a non-managed cloud provider so I proposed to the management to move our setup to AWS.
+AWS was still new that time but given my knowledge on it, I created a proposal which led us to migrate our system to AWS.
+I led the initiative and created migration plans and architecture design for our projects.
+
+As our team grow, I became part of the core team that handles the data processing and other company sensitive projects.
+I also led several projects including the music streaming and copyright detection projects.
+I was mentored by two of our top manages both in technical and non-technical aspects of project management.
+
+My daily routine would revolve on:
+
+- Checking on the progress of other members.
+- Research and development for new products.
+- Building data pipelines to improve ingestion and integration of youtube data (200+ gb each batch)
+- Interfacing with partners and stakeholders on some of our projects.
+- Maintenance and bug fixes on some of our legacy codes. This includes refactoring.
+
+Some of the tech stack I used:
+
+- Flask and Nodejs (express) for backend
+- Celery for batch jobs
+- MySQL, BigQuery, Redis, MongoDB
+- AWS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+asfagasg

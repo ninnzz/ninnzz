@@ -65,6 +65,9 @@ Some of the tech stack I used:
 - MySQL, BigQuery, Redis, MongoDB
 - AWS
 
+## Software Engineer
+
+Company: Stratpoin
 
 
 
@@ -78,10 +81,3 @@ Some of the tech stack I used:
 
 
 
-
-
-
-
-
-
-asfagasg

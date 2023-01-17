@@ -67,11 +67,31 @@ Some of the tech stack I used:
 
 ## Software Engineer
 
-Company: Stratpoin
+Company: Stratpoint
 
+Duration: 2013/06 - 2014/01
 
+This was my first job after graduating from the university. 
+I became part of the team that handles several web projects.
+Some of which involves building and integrating map solutions for businesses.
 
+I was also part of the R&D team that helped in our volunteer initiatives when [Typhoon Yolanda](https://en.wikipedia.org/wiki/Typhoon_Haiyan) hit the Philippines.
+Together with high ranking government officials, telco representatives, and other volunteers, we created an information aggregator that connects different initiatives and local groups.
 
+Our application served as the integration point for exchanging crucial information between different platforms. We support sms and other ways of integration because only cell signal is available on affected areas.
+
+Here are my usual day to day tasks:
+- FIx bugs and issues from legacy system
+- Help in teams that need inputs on code reviews and architecture design
+- Client meetings to explain the progress and current status of the project
+- Build custom internal tools
+
+Some of the stack I used:
+- Php (codeigniter)
+- MySql, SOLR, Sphinx, Elastic Search
+- AWS (EC2, S3 mainly)
+- Python for scripting
+- Frontend technologies - Bootstrap, HTML, CSS, JS
 
 
 

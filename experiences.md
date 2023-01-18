@@ -95,7 +95,17 @@ Some of the stack I used:
 
 
 
+## Software Developer
 
+Company: Codemagnus
+
+Duration 2013/01 - 2013/06
+
+Small dev shop that was started by some college friends.
+We took on different offshore clients for both mobile and web development.
+
+Since we were still in college, we worked on small to medium-sized projects. I built the backend for some of the projects.
+This is also where I became expose on AWS and how to host applications on EC2 back on its infancy.
 
 
 

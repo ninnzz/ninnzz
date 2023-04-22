@@ -33,6 +33,7 @@ If you cannot find me in front of my computer, I am probably on my <i><b>enduro 
 - [Work Experience](experiences.md)
 - [Academic Work](experiences.md)
 - [PyCons and Community Initative](dev_community.md)
+- [CV](resumev2.pdf)
 
  
 <h6 align="center">Let's connect?</h6>

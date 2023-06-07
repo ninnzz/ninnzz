@@ -34,6 +34,7 @@ Some of the tech stack I used:
 - Deep Learning (Keras, Torch, TF), Traditional ML models (Random Forest, dec trees, regressors) and in house ML models
 - Machine Vision tools (OpenCV, skimage, CVAT, etc)
 - DVC for data versioning and gitlab for MLOps pipelines
+- Docker for environment testing, pipelines, and deployment.
 - AWS, all our cloud setup is hosted in aws
 
 ## Backend and DevOps Engineer

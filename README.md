@@ -23,9 +23,9 @@ If you cannot find me in front of my computer, I am probably on my <i><b>enduro 
 <h6>Nine years of experience working on</h6>
 
 - Backend development
-- Machine Learning
-- Data Engineering
-- DevOps
+- Machine Learning 
+- DevOps, MLOps, Data Engineering
+- Research and Dev Community Initiatives
 - Startups!!
 
 ### Quick Links

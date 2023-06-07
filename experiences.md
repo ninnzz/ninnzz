@@ -21,15 +21,18 @@ Overall, here's the rundown of what my day to day looks like:
 
 - Build and maintain backend interface for existing and new projects
 - Design the overall project structure and setup. Most of our bigger projects would typically consist of several micro-services.
+- Be involved in model development, testing, and deployment.
+- Measure, monitor, and optimize model performance.
 - Manage data ingestion, data cleaning, and data storage.
 - Implement better development process through code standardization and implementation of best practices.
 - Make sure all models are deployed correctly using MLOps.
 
 Some of the tech stack I used:
 
-- Flask and FastAPI for backend
+- Flask and FastAPI for backend/microservice development
 - MySQL, Redis (caching), Elasticsearch
-- Deep Learning (Keras, Torch, TF) and in house ML models
+- Deep Learning (Keras, Torch, TF), Traditional ML models (Random Forest, dec trees, regressors) and in house ML models
+- Machine Vision tools (OpenCV, skimage, CVAT, etc)
 - DVC for data versioning and gitlab for MLOps pipelines
 - AWS, all our cloud setup is hosted in aws
 

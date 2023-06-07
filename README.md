@@ -31,7 +31,7 @@ If you cannot find me in front of my computer, I am probably on my <i><b>enduro 
 ### Quick Links
 
 - [Work Experience](experiences.md)
-- [Academic Work](experiences.md)
+- [Academic Work](publications.md)
 - [PyCons and Community Initative](dev_community.md)
 - [CV](resumev2.pdf)
 

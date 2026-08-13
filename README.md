@@ -9,14 +9,13 @@
 
 
 <p align="justify">
-When I was a kid, I wanted to be an astronaut so I have  no clue why I ended up taking computer science back in college. But hey, it turned out better than expected! 🌻
+<b><i>Senior Machine Learning Engineer</i></b> with more than a decade of experience building production software, machine learning systems, cloud infrastructure, data pipelines, and computer vision solutions. Experienced across the full ML lifecycle including experimentation, deployment, monitoring, MLOps, backend APIs, and infrastructure automation. Strong background in Python, AWS, Azure, Docker, Terraform, FastAPI, Computer Vision, Deep Learning, and scalable distributed systems.
 </p>
+
 <p align="justify">
-Coming from a mix of software engineering, data science, and research background, I have a good understanding on how to solve unique problems that require application of technology but at the same time, balance out the risk for all stake holders.
+Building ML capable teams and making sure each team member is up to date with good practices. I highly value team dynamics and make sure the team adjusts based on the project needs.
 </p>
-<p align="justify">
-If you cannot find me in front of my computer, I am probably on my <i><b>enduro bike</b></i> shredding trails, playing some riffs in my <i><b>guitar</b></i>, or in my telescope peering into the <i><b>depths of the universe</b></i>!
-</p>
+
 
 <h3>TLDR;</h3>
 
